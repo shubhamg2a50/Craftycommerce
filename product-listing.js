@@ -1,0 +1,1 @@
+"//Dummy code for product listing" > product-listing.js
